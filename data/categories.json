@@ -1,37 +1,26 @@
 [
     {
         "id": "1",
-        "picture": "https://www.native-instruments.com/typo3temp/pics/img-ce-crop-left-strummed_acoustic_overview_02_in_session-9058e8f9f15f5811fb1428b67d591bfa-t@2x.jpg",
-        "name": "Guitar",
-        "details": "This course will teach you how to master your fret board, understand music theory, and most importantly, how to use these tools to craft your own unique sound.This course is a four part, interactive, step-by-step, all HD video course which teaches you everything you need to play with complete confidence and control in any genre of music! Professional players don't hunt and peck or play without a plan. If you're getting paid to do studio work, tour with a working band, or even just play out in you local town, you need to know your instrument front and back, and know how to sound like you. This course is designed to give you exactly that."
+        "name": "Guitar"
     },
     {
         "id": "2",
-        "picture": "https://www.superprof.ca/blog/wp-content/uploads/2019/03/bass-guitars.jpg",
-        "name": "Bass",
-        "details": "The Professional Bass Masterclass is designed for students of all levels.  The course itself is divided into four levels starting with fundamentals, then moving into intermediate and then advanced techniques, knowledge and skill development.  Whether you're a beginner, want to fill in gaps in your knowledge, or advance your skills to whole new levels, this course is designed for you. This course brings together into one carefully constructed program knowledge from 20 year's experience covering elite music school training, session work, touring work, and advanced master classes as well as performance, production and composition frameworks.  This course is a vast amount of information gathered over decades in this course ready to unlock mastery for the motivated student. This course is a comprehensive system for learning to play the bass guitar that brings a broad range of musical information together to teach you the skills to be a musician.  If you're looking for bass lessons...great bass lessons...this course has the bass lessons for you."
+        "name": "Bass"
     },
     {
         "id": "3",
-        "picture": "https://cdn.schoolofrock.com/img/news-article-hero/learn-piano-on-a-keyboard1550004644.jpg",
-        "name": "Key Board",
-        "details": "This course is for beginners on the Piano, and so starts with the basics, but quickly moves onto learning about the different kinds of chords and how they are constructed, gradually getting more and more advanced as you progress. You don't just learn about chords though. Along the way you will learn about different kinds of rhythms, playing patterns and techniques that can be applied to the chords. By the end you'll be able to play the piano by reading a chord sheet, but sound like a pro! I believe the best way to learn is by applying your new found knowledge, and so throughout the course you will learn famous songs or chord progressions on the Piano, relevant to the particular chord/rhythm or playing pattern you've just been learning. The course uses examples from songs by a wide variety of artists such as Adele, Sam Smith, The Commodores, Christina Perri, John Legend and Don McLean to name a few."
+        "name": "Key Board"
     },
     {
         "id": "4",
-        "picture": "https://drummagazine.com/wp-content/uploads/2016/03/drums-2599508_1280.jpg",
-        "name": "Drums",
-        "details": "This course will turn you from being a drumming novice into a drumming expert. The lectures provide step by step instruction to suit everyone and cover skills that are both basic and advanced. Each section has downloadable PDFs to help your understanding and to aid practice. The lectures contain exercises that I have learnt, use and teach in my career as a professional drummer and tutor. By the end of the course you will be a proficient drummer. All you need to do is to pay attention to the lectures, be patient and devote some practice time to the exercises shown in the course. You'll have life long access to the all the videos with a 30 day money back guarantee so you have nothing to lose. Lectures are being added all the time so the course is constantly getting bigger and better."
+        "name": "Drums"
     },
     {
         "id": "5",
-        "picture": "https://images.ctfassets.net/3s5io6mnxfqz/2tgKAE2XKmpgAlZqoSxRW/ed92236cb34d77fff34fbcefb1a5f805/AdobeStock_187055739.jpeg",
-        "name": "Violin",
-        "details": "Let me tell you a secret - you already know how to play the violin. All the movements we utilize to hold the violin or draw the bow on the strings, you already know how to do. They are part of your daily life. The only thing you need is to make a connection between these movements and the movements required to play the violin. Let me be the teacher who will guide you every step of the way to mastery and will show you the true beauty of playing the violin! Don't hesitate! There is no better time than now. First little steps will soon become great strides toward your success!"
+        "name": "Violin"
     },
     {
         "id": "6",
-        "picture": "https://www.tonara.com/wp-content/uploads/2020/11/History-of-Flute.jpg",
         "name": "Flute",
         "details": "Looking to improve your flute playing? Music Professor can help you make the most of your practice. Pick up where Music Professor’s Beginner Flute course leaves off, adding more complex rhythms, scales and tone exercises to your repertoire. And save money while you study with us! Private lessons are expensive. Each Music Professor Flute course provides an entire year’s worth of lessons, for a fraction of the cost, and at your own convenience. Join over 18,000 fellow Music Professor students and begin your studies today!"
     }
